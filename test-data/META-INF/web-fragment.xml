@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-fragment id="WebFragment_ID" version="3.0"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-fragment_3_0.xsd">
+	<display-name>REST API Documentation</display-name>
+
+	<!-- V0 REST API DOCS: SwaggerInitializationServlet -->
+	<servlet>
+		<display-name>SwaggerInitializationServletV0</display-name>
+		<servlet-name>SwaggerInitializationServletV0</servlet-name>
+		<servlet-class>io.tokra.swagger.servlet.SwaggerInitializationServlet</servlet-class>
+		<init-param>
+			<param-name>rest.application.class</param-name>
+			<param-value>io.tokra.example.jaxrs.RestApplicationV0</param-value>
+		</init-param>
+		<load-on-startup>3</load-on-startup>
+	</servlet>
+
+</web-fragment>
