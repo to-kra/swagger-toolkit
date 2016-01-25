@@ -9,7 +9,7 @@
 
 	<name>swagger-toolkit</name>
 	<description>Toolkit extending swagger to use multiple instances of swagger backend integration. Classes scanner based on annotation (version) scan. etc.</description>
-	<url>http://maven.apache.org</url>
+	<url>https://github.com/to-kra/swagger-toolkit</url>
 
 	<licenses>
 		<license>
