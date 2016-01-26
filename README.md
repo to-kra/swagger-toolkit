@@ -13,8 +13,8 @@ Here is list of download possibilities
 
 or:
 
-[https://oss.sonatype.org/content/groups/public/io/tokra/swagger-toolkit/](https://oss.sonatype.org/content/groups/public/io/tokra/swagger-toolkit/)
-[http://mvnrepository.com/artifact/io.tokra/swagger-toolkit](http://mvnrepository.com/artifact/io.tokra/swagger-toolkit)
+- [https://oss.sonatype.org/content/groups/public/io/tokra/swagger-toolkit/](https://oss.sonatype.org/content/groups/public/io/tokra/swagger-toolkit/)
+- [http://mvnrepository.com/artifact/io.tokra/swagger-toolkit](http://mvnrepository.com/artifact/io.tokra/swagger-toolkit)
 
 ## 1.2 Gradle
     'io.tokra:swagger-toolkit:1.0.0'
