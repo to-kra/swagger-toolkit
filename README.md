@@ -1,4 +1,5 @@
 # swagger-toolkit
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.tokra/swagger-toolkit/badge.svg)](http://mvnrepository.com/artifact/io.tokra/swagger-toolkit)
 [![Javadocs](http://www.javadoc.io/badge/io.tokra/swagger-toolkit.svg)](http://www.javadoc.io/doc/io.tokra/swagger-toolkit)
 
 Toolkit extending swagger to use multiple instances of swagger backend integration. Classes scanner based on annotation (version) scan. etc.
