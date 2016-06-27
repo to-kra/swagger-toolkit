@@ -1,4 +1,6 @@
 # swagger-toolkit
+[![Javadocs](http://www.javadoc.io/badge/io.tokra/swagger-toolkit.svg)](http://www.javadoc.io/doc/io.tokra/swagger-toolkit)
+
 Toolkit extending swagger to use multiple instances of swagger backend integration. Classes scanner based on annotation (version) scan. etc.
 
 # 1. Download
